@@ -37,8 +37,8 @@ This project applies deep learning techniques to classify soccer events from the
 
 | Model      | Explainability Tool | Visualization |
 |------------|---------------------|----------------|
-| ResNet-50  | SHAP                | ![SHAP Output](images/shap_example.png) |
-| EfficientNet-B3 | LIME         | ![LIME Output](images/lime_example.png) |
+| ResNet-50  | SHAP                | ![SHAP Output](ShapOutput.png) |
+| EfficientNet-B3 | LIME         | ![LIME Output](LimeOutput.png) |
 
 _(Replace the image paths with your actual output visualizations)_
 
