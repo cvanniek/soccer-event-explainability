@@ -40,7 +40,5 @@ This project applies deep learning techniques to classify soccer events from the
 | ResNet-50  | SHAP                | ![SHAP Output](ShapOutput.png) |
 | EfficientNet-B3 | LIME         | ![LIME Output](LimeOutput.png) |
 
-_(Replace the image paths with your actual output visualizations)_
-
 ## Repository Structure
 
