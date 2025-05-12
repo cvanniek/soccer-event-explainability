@@ -40,5 +40,31 @@ This project applies deep learning techniques to classify soccer events from the
 | ResNet-50  | SHAP                | ![SHAP Output](ShapOutput.png) |
 | EfficientNet-B3 | LIME         | ![LIME Output](LimeOutput.png) |
 
-## Repository Structure
+## License 
+
+This project was for educational and research purposes only.
+
+## Setup Instructions
+
+To run this project locally:
+
+1. **Clone the repository**  
+   `git clone https://github.com/YOUR_USERNAME/soccer-event-explainability.git`  
+   `cd soccer-event-explainability`
+
+2. **(Optional) Create a virtual environment**  
+   `python -m venv venv`  
+   `source venv/bin/activate`  (macOS/Linux)  
+   `.\\venv\\Scripts\\activate`  (Windows)
+
+3. **Install required packages**    
+   `pip install torch torchvision shap lime matplotlib notebook`
+
+4. **Run the notebook**  
+   `SoccerNet_Code`
+
+5. **Explore results**  
+   Open `SoccerNet_Code.ipynb` to view model training and explainability outputs using SHAP and LIME.
+
+
 
